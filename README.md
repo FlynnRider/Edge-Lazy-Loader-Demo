@@ -14,6 +14,12 @@ Edge Animate Layout
  * The state machine and loading logic are in `AppStateMachine.js`
 
 
+State Machine Structure
+=======================
+
+![State Machine](http://flynnjones.files.wordpress.com/2013/12/animatestatemachine1.png)
+
+
 Implementation
 ==============
 
