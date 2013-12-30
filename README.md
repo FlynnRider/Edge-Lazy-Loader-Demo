@@ -12,15 +12,10 @@ Edge Animate Layout
  * It references [Jake Gordon's state machine](https://github.com/jakesgordon/javascript-state-machine)
  * [yepnope](http://yepnopejs.com/) is used for composition loading
  * The state machine and loading logic are in `AppStateMachine.js`
- 
-State Machine Structure
-=======================
-
-![State Machine](http://flynnjones.files.wordpress.com/2013/12/animatestatemachine1.png)
 
 
 Implementation
-======
+==============
 
 Below is an example of the a transition between the loading screen and the first screen:
 
